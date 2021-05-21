@@ -10,10 +10,10 @@ How to use:
 
 ## Examples
 
-![Hayek](examples/friedrich-hayek.jgp)
+![Hayek](/examples/friedrich-hayek.jgp)
 
-![Hayek colorized](examples/friedrich-hayek-colorized.jgp)
+![Hayek colorized](/examples/friedrich-hayek-colorized.jpg)
 
-![Buchanan](examples/buchanan.jgp)
+![Buchanan](/examples/buchanan.jgp)
 
-![Buchanan colorized](examples/buchanan-colorized.jgp)
+![Buchanan colorized](/examples/buchanan-colorized.jgp)
